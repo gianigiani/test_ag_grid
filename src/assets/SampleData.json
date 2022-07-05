@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "comment": "Reinsurance",
+    "insuredObject": "Dublin",
+    "period": "Old",
+    "matchId": null,
+    "insuredObject_score": 89,
+    "location": "https://goo.gl/maps/MCZf5bk1vB9GiLWX6"
+  },
+  {
+    "id": 2,
+    "comment": "Reinsurance",
+    "insuredObject": "Galway",
+    "period": "New",
+    "matchId": null,
+    "location": "https://goo.gl/maps/MCZf5bk1vB9GiLWX6"
+  },
+  {
+    "id": 3,
+    "comment": "Car Sales",
+    "insuredObject": "Cork",
+    "period": "New",
+    "matchId": null,
+    "insuredObject_score": 50,
+    "location": "51.5072, 0.1276"
+  },
+
+  {
+    "id": 4,
+    "comment": "Reinsurance",
+    "insuredObject": "London",
+    "period": "Old",
+    "matchId": null,
+    "location": ""
+  },
+  {
+    "id": 5,
+    "comment": "Reinsurance",
+    "insuredObject": "Manchester",
+    "period": "New",
+    "matchId": null,
+    "insuredObject_score": 89,
+    "location": ""
+  },
+  {
+    "id": 6,
+    "comment": "Rocket Science",
+    "insuredObject": "Liverpool",
+    "period": "New",
+    "matchId": null,
+    "insuredObject_score": 89,
+    "location": ""
+  },
+
+  {
+    "id": 7,
+    "comment": "Offices",
+    "state": "New York",
+    "insuredObject": "New York",
+    "period": "New",
+    "matchId": "100",
+    "insuredObject_score": 50,
+    "location": ""
+  },
+  {
+    "id": 8,
+    "comment": "Offices",
+    "state": "New York",
+    "insuredObject": "Albany",
+    "period": "Old",
+    "matchId": "100",
+    "insuredObject_score": 50,
+    "location": ""
+  },
+
+  {
+    "id": 9,
+    "comment": "Car Sales",
+    "insuredObject": "San Diego",
+    "period": "New",
+    "matchId": "101",
+    "insuredObject_score": 70,
+    "location": ""
+  },
+  {
+    "id": 10,
+    "comment": "Shoe Sales",
+    "insuredObject": "San Francisco",
+    "period": "Old",
+    "matchId": "101",
+    "insuredObject_score": 70,
+    "location": ""
+  },
+
+  {
+    "id": 11,
+    "comment": "Offices",
+    "insuredObject": "brasov",
+    "period": "New",
+    "matchId": "102",
+    "insuredObject_score": 96,
+    "location": ""
+  },
+  {
+    "id": 12,
+    "comment": "Offices",
+    "insuredObject": "zarnesti",
+    "period": "Old",
+    "matchId": "102",
+    "insuredObject_score": 96,
+    "location": ""
+  },
+
+  {
+    "id": 13,
+    "comment": "Car Sales",
+    "insuredObject": "",
+    "period": "New",
+    "matchId": "123",
+    "insuredObject_score": 70,
+    "location": ""
+  },
+  {
+    "id": 14,
+    "comment": "Shoe Sales",
+    "insuredObject": "",
+    "period": "Old",
+    "matchId": "123",
+    "insuredObject_score": 70,
+    "location": ""
+  }
+]

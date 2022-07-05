@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+@import "ag-grid-community/dist/styles/ag-grid.css";
+@import "ag-grid-community/dist/styles/ag-theme-balham.css";
+
+.color-red {
+  background-color: #ee6676;
+}
+.color-green {
+  background-color: #66eea3;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+}
+.color-light-green {
+  background-color: #aaf5cc;
+}
+.color-yellow {
+  background-color: #fff466;
+}
+.color-orange {
+  background-color: #ffb466;
+}
+.color-white {
+  background-color: white;
+}
+.color-grey {
+  background-color: #0000004d;
+}
+.color-initial {
+  background-color: initial;
+}
+.bold-element {
+  font-weight: bold;
+}
+.bgcolorred {
+  background-color: #ee6676;
+}
